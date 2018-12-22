@@ -1,0 +1,5 @@
+[INFO ] 2018-12-23 00:55:35 [restartedMain] SheAndHerAuthApplication - Starting SheAndHerAuthApplication on aditya with PID 22984 (/home/aditya/Avocado/SheAndHerAuth/target/classes started by aditya in /home/aditya/Avocado/SheAndHerAuth)
+[INFO ] 2018-12-23 00:55:35 [restartedMain] SheAndHerAuthApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-12-23 00:57:37 [restartedMain] SheAndHerAuthApplication - Starting SheAndHerAuthApplication on aditya with PID 23084 (/home/aditya/Avocado/SheAndHerAuth/target/classes started by aditya in /home/aditya/Avocado/SheAndHerAuth)
+[INFO ] 2018-12-23 00:57:37 [restartedMain] SheAndHerAuthApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-12-23 00:57:47 [restartedMain] SheAndHerAuthApplication - Started SheAndHerAuthApplication in 10.127 seconds (JVM running for 11.426)
